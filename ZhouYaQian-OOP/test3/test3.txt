@@ -1,0 +1,29 @@
+1. 使用关联容器编写程序，算出输入中每一个不同的单词出现的次数, 并且按照词典序输出单词及其次数。
+例如：输入: 
+I am from Shanghai . 
+I love Shanghai .
+输出:
+. 2
+I 2
+Shanghai 2
+am 1
+from 1
+love 1
+
+
+2. 编写程序产生交叉引用表，一行一行读入句子，根据空白符分割单词，记录每个单词出现的行号，并输出。
+输入: 
+I am from Shanghai .
+I love Shanghai .
+输出:
+. 1 2
+I 1 2
+Shanghai 1 2
+am 1
+from 1
+love 2
+
+
+请在附件中的.cpp和.h文件的//TODO后添加代码，使程序完整。test3_output.txt为test3_input.txt为测试输入时的输出。请同学们使用这些测试数据来验证自己的程序。
+
+请把所有的.cpp和.h文件打包提交。

@@ -1,0 +1,7 @@
+按要求用C++实现形状类myShape,myCirle和myRectangle。myShape类为抽象类，提供计算周长和面积的接口函数，要求重载输出运输符来输出形状的周长和面积。myRectangle类中double类型的私有属性w和h分别表示长方形的宽和高。myCircle类中double类型的私有属性r表示圆形的半径。
+
+
+
+请在附件中的Shape.cpp, Shape.h, Rectangle.cpp, Rectangle.h, Circle.cpp, Circle.h文件中添加代码，使程序完整。test8_output.txt为测试输出。请同学们使用这些测试数据来验证自己的程序。
+
+请把所有.cpp文件和.h文件打包压缩提交。

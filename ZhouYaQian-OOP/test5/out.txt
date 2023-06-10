@@ -1,0 +1,4 @@
+The Stack has 4 numbers.
+They are:
+4 3 2 1 
+Now the size is 0
