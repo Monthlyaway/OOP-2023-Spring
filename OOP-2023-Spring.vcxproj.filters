@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Exams\2021-2022期末试卷.cpp">
+    <ClCompile Include="Exams\Final Exams\merge_interval.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
